@@ -43,13 +43,7 @@ The workflow also provides a Gemini-powered conversational path for general ques
 ### 📊 Generated Analysis Report
 
 <p align="center">
-  <img src="./assets/analysis-report.png" alt="Generated Data Analysis Report" width="90%">
-</p>
-
-### 💬 Chat Interface
-
-<p align="center">
-  <img src="./assets/chat-interface.png" alt="AI Data Analyst Chat Interface" width="80%">
+  <img src="./assets/Analysis Report.png" alt="Generated Data Analysis Report" width="90%">
 </p>
 
 ### Core Workflow
