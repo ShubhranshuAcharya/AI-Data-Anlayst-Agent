@@ -17,6 +17,36 @@ Users provide a **Google Sheets URL or Sheet ID** through the n8n chat interface
 
 The workflow also provides a Gemini-powered conversational path for general questions and natural-language interactions.
 
+## 🎥 Demo & Screenshots
+
+### Demo Video
+
+> ▶️ **[Watch the complete workflow demonstration]([YOUR_GOOGLE_DRIVE_VIDEO_LINK](https://drive.google.com/file/d/1B4kCPtOCFJd_n3Ft40AC49dCjpM_IxBg/view?usp=sharing))**
+
+The demo covers:
+
+`Chat Input → Sheet Discovery → Data Ingestion → Statistical Analysis → Google Docs Report → Gmail Delivery`
+
+---
+
+### 📸 Workflow Preview
+
+<p align="center">
+  <img src="[./assets/workflow.png](https://drive.google.com/file/d/12P6wep0xLunVPgHm3T50qhai_10rotok/view?usp=sharing)" alt="AI Data Analyst Agent n8n Workflow" width="100%">
+</p>
+
+### 📊 Generated Analysis Report
+
+<p align="center">
+  <img src="./assets/analysis-report.png" alt="Generated Data Analysis Report" width="90%">
+</p>
+
+### 💬 Chat Interface
+
+<p align="center">
+  <img src="./assets/chat-interface.png" alt="AI Data Analyst Chat Interface" width="80%">
+</p>
+
 ### Core Workflow
 
 ```text
