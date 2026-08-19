@@ -20,12 +20,14 @@ The workflow also provides a Gemini-powered conversational path for general ques
 ## 🎥 Demo
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1B4kCPtOCFJd_n3Ft40AC49dCjpM_IxBg/view?usp=sharing">
-    <img src="https://drive.google.com/file/d/12P6wep0xLunVPgHm3T50qhai_10rotok/view?usp=sharing" alt="Watch AI Data Analyst Agent Demo" width="900">
-  </a>
+  <video src="./asset/Agent Workflow demo.mp4" controls width="100%">
+  Your browser does not support the video tag.
+  </video>
 </p>
 
-<p align="center">
+### What the demo covers
+
+`Chat Input → Sheet Discovery → Data Ingestion → Statistical Analysis → Google Docs Report → Gmail Delivery`
   ▶️ <strong>Click the preview to watch the complete demo</strong>
 </p>
 
