@@ -17,11 +17,17 @@ Users provide a **Google Sheets URL or Sheet ID** through the n8n chat interface
 
 The workflow also provides a Gemini-powered conversational path for general questions and natural-language interactions.
 
-## 🎥 Demo & Screenshots
+## 🎥 Demo
 
-### Demo Video
+<p align="center">
+  <a href="https://drive.google.com/file/d/1B4kCPtOCFJd_n3Ft40AC49dCjpM_IxBg/view?usp=sharing">
+    <img src="https://drive.google.com/file/d/12P6wep0xLunVPgHm3T50qhai_10rotok/view?usp=sharing" alt="Watch AI Data Analyst Agent Demo" width="900">
+  </a>
+</p>
 
-> ▶️ **[Watch the complete workflow demonstration](https://drive.google.com/file/d/1B4kCPtOCFJd_n3Ft40AC49dCjpM_IxBg/view?usp=sharing)**
+<p align="center">
+  ▶️ <strong>Click the preview to watch the complete demo</strong>
+</p>
 
 The demo covers:
 
