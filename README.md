@@ -19,11 +19,7 @@ The workflow also provides a Gemini-powered conversational path for general ques
 
 ## 🎥 Demo
 
-<p align="center">
-  <video src="./asset/Agent Workflow demo.mp4" controls width="100%">
-  Your browser does not support the video tag.
-  </video>
-</p>
+https://github.com/user-attachments/assets/Agent Workflow demo.mp4
 
 ### What the demo covers
 
