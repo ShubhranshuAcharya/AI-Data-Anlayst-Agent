@@ -21,7 +21,7 @@ The workflow also provides a Gemini-powered conversational path for general ques
 
 ### Demo Video
 
-> ▶️ **[Watch the complete workflow demonstration]([YOUR_GOOGLE_DRIVE_VIDEO_LINK](https://drive.google.com/file/d/1B4kCPtOCFJd_n3Ft40AC49dCjpM_IxBg/view?usp=sharing))**
+> ▶️ **[Watch the complete workflow demonstration](https://drive.google.com/file/d/1B4kCPtOCFJd_n3Ft40AC49dCjpM_IxBg/view?usp=sharing)**
 
 The demo covers:
 
