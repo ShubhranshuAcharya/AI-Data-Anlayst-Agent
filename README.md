@@ -1,4 +1,4 @@
-# AI Data Analyst Agent 🚀
+# AI DATA ANALYST AGENT
 
 > An autonomous data analytics workflow built with **n8n, Google Gemini, and Google Workspace APIs** that transforms Google Sheets data into actionable insights, audit-ready reports, and executive email summaries.
 
