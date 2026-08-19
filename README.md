@@ -40,13 +40,6 @@ The workflow also provides a Gemini-powered conversational path for general ques
        width="100%">
 </p>
 
-### 📊 Generated Analysis Report
-
-<p align="center">
-  <img src="./asset/Analysis Report.png"
-       alt="Generated Analysis Report"
-       width="100%">
-</p>
 
 ### Core Workflow
 
