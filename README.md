@@ -31,16 +31,13 @@ The workflow also provides a Gemini-powered conversational path for general ques
   ▶️ <strong>Click the preview to watch the complete demo</strong>
 </p>
 
-The demo covers:
 
-`Chat Input → Sheet Discovery → Data Ingestion → Statistical Analysis → Google Docs Report → Gmail Delivery`
-
----
-
-### 📸 Workflow Preview
+## 📸 Workflow Preview
 
 <p align="center">
-  <img src="[./assets/workflow.png](https://drive.google.com/file/d/12P6wep0xLunVPgHm3T50qhai_10rotok/view?usp=sharing)" alt="AI Data Analyst Agent n8n Workflow" width="100%">
+  <img src="./asset/Workflow Preview.png"
+       alt="AI Data Analyst Agent Workflow"
+       width="100%">
 </p>
 
 ### 📊 Generated Analysis Report
